@@ -221,4 +221,4 @@ df1
 <hr>
 
 ## Result
-### Hence the data was cleaned , outliers were detected and removed.
+Hence the data was cleaned , outliers were detected and removed.
