@@ -22,7 +22,7 @@ Save the Clean data to the file
 ### STEP 5 :
 Remove outliers using IQR
 
-### STEP 6
+### STEP 6 :
 Use zscore of to remove outliers
 
 ## Coding and Outputs :
