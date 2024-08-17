@@ -1,8 +1,10 @@
 <h1>Ex. 1   Data Cleaning and Outlier Detection & Removal</h1>
+
 <br>
 
 ## AIM :
 To read the given data and perform data cleaning and save the cleaned data to a file.
+
 <br>
 
 ## Explanation :
@@ -13,10 +15,12 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 ## Algorithm :
 ### STEP 1 :
 Read the given Data
+
 <br>
 
 ### STEP 2 :
 Get the information about the data
+
 <br>
 
 ### STEP 3 :
@@ -24,19 +28,23 @@ Remove the null values from the data
 <br>
 ### STEP 4 :
 Save the Clean data to the file
+
 <br>
 
 ### STEP 5 :
 Remove outliers using IQR
+
 <br>
 
 ### STEP 6 :
 Use zscore of to remove outliers
+
 <br>
 
 ## Coding and Outputs :
 
 <h3 align="center">Data Cleaning</h3>
+
 <br>
 
 ```py
